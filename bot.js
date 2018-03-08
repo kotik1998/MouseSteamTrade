@@ -28,7 +28,7 @@ client.on('loggedOn', () => {
 
 client.on("friendMessage", function(steamID, message) {
 	if (message == "!help") {
-		client.chatMessage(steamID, "Hello!, At the moment this bot isn't available for trades. It will be 15 days away from: Wednesday - 3 January - 2018 ");
+		client.chatMessage(steamID, config.helpResponse);
 	}
 });
 
