@@ -1,7 +1,7 @@
 {
- "username":"",
- "password":"",
+ "username":"<user>",
+ "password":"<pwd>",
  "sharedSecret":"+=",
  "identitySecret":"=",
- "ownerID":""
+ "ownerID":"<SteamID64>"
 }
