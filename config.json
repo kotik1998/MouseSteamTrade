@@ -3,5 +3,6 @@
  "password":"<pwd>",
  "sharedSecret":"+=",
  "identitySecret":"=",
- "ownerID":"<SteamID64>"
+ "ownerID":"<SteamID64>",
+ "helpResponse":"Hello! =\ At the moment this bot isn't available for trades. Please check back soon. Thank you! =)"
 }
