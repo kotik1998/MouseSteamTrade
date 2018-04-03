@@ -1,7 +1,8 @@
 {
- "username":"",
- "password":"",
+ "username":"<user>",
+ "password":"<pwd>",
  "sharedSecret":"+=",
  "identitySecret":"=",
- "ownerID":""
+ "ownerID":"<SteamID64>",
+ "helpResponse":"Hello! =\ At the moment this bot isn't available for trades. Please check back soon. Thank you! =)"
 }

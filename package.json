@@ -1,0 +1,28 @@
+{
+  "name": "mousesteamtrade",
+  "version": "1.0.0",
+  "description": "simple bot",
+  "main": "bot.js",
+  "dependencies": {
+    "steam-totp": "^2.0.1",
+    "steam-user": "^3.24.0",
+    "steamcommunity": "^3.34.1",
+    "steam-tradeoffer-manager": "^2.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "steam",
+    "trade",
+    "trading",
+    "bot",
+    "steam-javascript",
+    "node-steam",
+    "steam-totp",
+    "steam-user"
+  ],
+  "author": "",
+  "license": "ISC"
+}
