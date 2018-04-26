@@ -23,7 +23,7 @@ client.logOn(logOnOptions);
 client.on('loggedOn', () => {
 	console.log('succesfully logged on.');
 	client.setPersona(SteamUser.Steam.EPersonaState.Online);
-	client.gamesPlayed(["404"]);
+	client.gamesPlayed(["440"]);
 });
 
 client.on("friendMessage", function(steamID, message) {
